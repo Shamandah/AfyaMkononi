@@ -182,7 +182,7 @@ MIT © 2024 AfyaMkononi
 ## 💡 Need Help?
 
 📧 support@afyamkononi.app  
-🌐 [Visit Website](https://afyamkononi.app)
+🌐 [Visit Website]https://astounding-capybara-8ef838.netlify.app/
 
 ---
 
